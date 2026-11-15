@@ -1,2 +1,2 @@
-version=1.3
-url=https://github.com/jay377k-boop/xbox-input-util/releases/download/v1.3/Helix.exe
+version=1.4
+url=https://github.com/jay377k-boop/xbox-input-util/releases/download/v1.4/Helix.exe
